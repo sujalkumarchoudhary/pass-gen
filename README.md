@@ -7,6 +7,9 @@ A simple and customizable password generator built with React and Vite. Instantl
 ![Password Generator Screenshot](public/Screenshot%202025-07-03%20030552.png)
 ![Password Generator Screenshot](public/Screenshot%202025-07-03%20030610.png)
 
+## Live Demo
+
+Visit the app here: [https://yoursecretepass.netlify.app/](https://yoursecretepass.netlify.app/)
 
 ## Features
 
