@@ -30,7 +30,7 @@ Visit the app here: [https://yoursecretepass.netlify.app/](https://yoursecretepa
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/pass-gen.git
+   git clone https://github.com/sujalkumarchoudhary/pass-gen.git
    cd pass-gen
    ```
 2. Install dependencies:
